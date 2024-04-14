@@ -1,0 +1,15 @@
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\bin\Debug\net8.0\trilha-net-poo-desafio.exe
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\bin\Debug\net8.0\trilha-net-poo-desafio.deps.json
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\bin\Debug\net8.0\trilha-net-poo-desafio.runtimeconfig.json
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\bin\Debug\net8.0\trilha-net-poo-desafio.dll
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\bin\Debug\net8.0\trilha-net-poo-desafio.pdb
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.AssemblyInfoInputs.cache
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.AssemblyInfo.cs
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.csproj.CoreCompileInputs.cache
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.sourcelink.json
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.dll
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\obj\Debug\net8.0\refint\trilha-net-poo-desafio.dll
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.pdb
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.genruntimeconfig.cache
+D:\Giovanni\Cursos\Dio\DotNet\trilha-net-poo-desafio\obj\Debug\net8.0\ref\trilha-net-poo-desafio.dll
